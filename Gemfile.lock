@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    better_jasminerice (0.1.0)
+    better_jasminerice (0.2.0)
       coffee-rails
 
 GEM

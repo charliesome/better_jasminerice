@@ -2,7 +2,7 @@
 # project in your rails apps through git.
 Gem::Specification.new do |s|
   s.name        = "better_jasminerice"
-  s.version     = "0.1.0"
+  s.version     = "0.2.0"
   s.authors     = ["Brad Phelan"]
   s.summary     = "Pain free coffeescript unit testing for Rails 3.1 using jasmine"
   s.description = "Full support for the Rails 3.1 asset pipeline when bdd'ing your coffeescript or javascript using jasmine"
