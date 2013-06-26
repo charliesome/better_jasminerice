@@ -1,7 +1,7 @@
 # Provide a simple gemspec so you can easily use your
 # project in your rails apps through git.
 Gem::Specification.new do |s|
-  s.name        = "jasminerice"
+  s.name        = "better_jasminerice"
   s.version     = "0.1.0"
   s.authors     = ["Brad Phelan"]
   s.summary     = "Pain free coffeescript unit testing for Rails 3.1 using jasmine"
